@@ -1,3 +1,3 @@
 # Proyecto-programacion
-Luisa Espinosa 
-Valerie Ramírez
+- Luisa Espinosa 
+- Valerie Ramírez
